@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4aaa97d5262f587",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "83d5407fe55ee5a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escenas/02A Empresa Harvest.md",
+                "file": "Personajes/Principales/Rocket Bolt.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personajes/Principales/Rocket Bolt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personajes/Principales/Rocket Bolt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personajes/Principales/Rocket Bolt.md"
+              }
             }
           }
         ],
@@ -151,26 +147,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e4aaa97d5262f587",
+  "active": "83d5407fe55ee5a1",
   "lastOpenFiles": [
-    "Lugares/Panadería.md",
-    "Personajes/Secundarios/Rob.md",
-    "Personajes/Principales/Yukkuri Kame.md",
+    "Personajes/Secundarios/Albert.md",
     "Personajes/Principales/Rocket Bolt.md",
+    "Lugares/Posada.md",
+    "Lugares/Panadería.md",
+    "Lugares/Morgue.md",
+    "Lugares/Harvest.md",
+    "Lugares/Always Green.md",
     "Lugares/Alcornocales.md",
+    "Escenas/01 Prologo Carrera Industrial.md",
     "Escenas/02B Empresa Always Green.md",
     "Escenas/02A Empresa Harvest.md",
+    "Personajes/Secundarios/Rob.md",
+    "Personajes/Principales/Yukkuri Kame.md",
     "Personajes/Secundarios/Contratistas.md",
     "Personajes/Secundarios/Kitty.md",
     "Personajes/Secundarios/Lucy.md",
     "Personajes/Secundarios/Mark.md",
     "Personajes/Secundarios/Phil.md",
-    "Escenas/01 Prologo Carrera Industrial.md",
-    "Lugares/Posada.md",
-    "Lugares/Morgue.md",
-    "Lugares/Harvest.md",
-    "Lugares/Always Green.md",
-    "Personajes/Secundarios/Albert.md",
     "la maldición del perezoso.md",
     "Bienvenido.md",
     "Plantillas/Personajes.md",

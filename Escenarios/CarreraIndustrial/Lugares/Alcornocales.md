@@ -9,7 +9,7 @@ Se vive una vida en estilo moderno, pero a diferencia de otras ciudades, casi no
 
 **Descriptor**: *Pueblo en medio del boque que ha crecido rápidamente debido a la industrialización que se presenta en el, grandes industrian rodean el lago central de la ciudad que divide el dominio de las empresas [[Harvest]] y [[Always Green]]*
 
-La ciudad se divide en lado **Este** y lado **Oeste** dependiendo su posición en el lago.
+La ciudad se divide en lado **Este** y lado **Oeste** dependiendo su posición con respecto al lago.
 ## Lado Este
 
 **Don Adición al trabajo:** Los pobladores se han visto fuertemente afectados por la droga en el agua lo que les hace tener un incremento en la energia del día a día,  hablaran rápido y se limitaran a responder lo que se les pregunte, mientras menos palabras digan, mejor, si se les obliga a detenerse empezaran a temblar por la ansiedad de quedarse quietos
@@ -19,7 +19,7 @@ Del lado **Este** del lago los pobladores pueden dar la siguiente información:
 - Todos trabajan en [[Harvest|Industria Harvest]]
 - [[Harvest|Industria Harvest]] es nueva en el pueblo y su fundador es [[Rocket Bolt]].
 - Creen firmemente en una maldición de [[la maldición del perezoso]] que dice que aquel que no trabaje morirá. Consideran que los muertos se deben a esta maldición.
-- Despues que se prensetan a trabajar por primera vez en alguna en algunas de las fabricas de [[Harvest|Industria Harvest]] al poco tiempo esperan la llegada de [[Contratistas]] que les hacen firmar los documentos requeridos para entrar a trabajar.
+- Despues que se presentan a trabajar por primera vez en alguna en algunas de las fabricas de [[Harvest|Industria Harvest]] al poco tiempo esperan la llegada de [[Contratistas]] que les hacen firmar los documentos requeridos para entrar a trabajar.
 - Se considera "Flojos" a las personas que se mudan al poblado del lado oeste del lago donde originalmente estaba la [[Always Green|Industria Always Green]]
 - No son consientes de la ansiedad que tienen al trabajar o la prisa que presentan al moverse, lo ven *"Normal"*.
 
